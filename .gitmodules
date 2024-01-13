@@ -1,0 +1,18 @@
+[submodule "xtUMLtoPHP"]
+	path = xtUMLtoPHP
+	url = https://github.com/yazidazfa/Translate-PHP.git
+[submodule "xtUMLtoJava"]
+	path = xtUMLtoJava
+	url = https://github.com/memettekkee/xtUML-to-Java.git
+[submodule "xtUMLtoC"]
+	path = xtUMLtoC
+	url = https://github.com/Hesoyaaam/Translating_C.git
+[submodule "xtUMLtoTypeScript"]
+	path = xtUMLtoTypeScript
+	url = https://github.com/Rizald95/Final-TranslatorTypeScript.git
+[submodule "xtUMLtoPython"]
+	path = xtUMLtoPython
+	url = https://github.com/seoeka/pppl-uml-python.git
+[submodule "xtUMLtoCSharp"]
+	path = xtUMLtoCSharp
+	url = https://github.com/Danda420/xtUMLtoCSharp.git
