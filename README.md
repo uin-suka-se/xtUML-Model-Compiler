@@ -1,8 +1,16 @@
 # xtUML Model Compiler
-Aplikasi yang dirancang untuk menerjemahkan model xtUML dalam bentuk JSON ke bahasa pemrograman.
+Ini adalah aplikasi untuk menerjemahkan model xtUML dalam bentuk JSON ke bahasa pemrograman berikut:
+- C
+- C++
+- C#
+- Java
+- PHP
+- Python
+- TypeScript
 
 # Tools / Software / Library
 - Visual Studio 2019 / Visual Studio 2022
+- Newtonsoft.Json
 
 # Instalasi
 *berikut cara instalasi aplikasi:*
@@ -15,7 +23,7 @@ Aplikasi yang dirancang untuk menerjemahkan model xtUML dalam bentuk JSON ke bah
 7. Lalu jalankan command berikut 'Update-Package -Reinstall'.
 8. Tekan tombol Start lagi untuk menjalankan aplikasi.
 
-# Cara Menggunakan
+# Cara Menggunakan dan Hasil
 Untuk menjalankan aplikasi ini:
 1. Buka aplikasi.
 2. Tekan tombol 'Select File' untuk memilih file JSON yang berisi model xtUML.
@@ -25,7 +33,9 @@ Untuk menjalankan aplikasi ini:
 6. Untuk informasi lebih jauh, tekan tombol 'Help'.
 
 # Referensi
+- [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - [textual, executable, and translatable UML](http://txtuml.inf.elte.hu/wiki/doku.php?id=start)
+- [Json.NET - Newtonsoft](https://www.newtonsoft.com/json)
 
 # Kontributor dan Kontak
 - [UIN SUKA SE](https://github.com/uin-suka-se)
